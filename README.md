@@ -1,5 +1,3 @@
-# Samrawit
-
 # Hi there, I'm Samrawit 👋
 
 **Full-stack Software Engineer** | Based in Ethiopia | 📧 samrawitkta@gmail.com
@@ -8,11 +6,15 @@ I am a full-stack engineer with a passion for machine learning and AI research.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on experimental research in adversarial threats
-- 🌱 Learning about adversarial examples and C#
-- 👯 Looking to collaborate on AI research and system development projects
-- 💬 Ask me about full-stack development or AI/ML topics
-- 📫 How to reach me: samrawitkta@gmail.com
+-Investigating adversarial threats in machine learning systems, studying how models behave under malicious or unexpected inputs
+
+-Developing a market dynamics prediction project, exploring how economic signals and external drivers influence price behavior
+
+-Working on NLP experiments, focusing on language modeling and applied text analysis
+
+-Background in full-stack engineering, building tools and infrastructure that support AI experimentation
+
+-Currently expanding my skills in ML experimentation and research
 
 ## 🛠️ Technical Skills
 
