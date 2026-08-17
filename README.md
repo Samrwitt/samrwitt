@@ -1,6 +1,6 @@
 # Hi, I’m Samrawit Kahsay 👋
 
-### AI/ML Engineer | Python | Generative AI, RAG & Production AI Systems
+### AI/ML Engineer | Software Engineer
 
 I build practical AI and machine-learning systems that go beyond demos — from **LLM and RAG applications to speech AI, ML/data pipelines, backend APIs, evaluation systems, and production deployment**.
 
