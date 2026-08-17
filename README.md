@@ -1,125 +1,222 @@
 # Hi, I’m Samrawit Kahsay 👋
 
-### Full-Stack Software Engineer | AI/ML Engineer
+### AI/ML Engineer | Python | Generative AI, RAG & Production AI Systems
 
-I build production-oriented software systems that combine **modern web development, scalable backend architecture, cloud infrastructure, and applied artificial intelligence**.
+I build practical AI and machine-learning systems that go beyond demos — from **LLM and RAG applications to speech AI, ML/data pipelines, backend APIs, evaluation systems, and production deployment**.
 
-My experience includes building full-stack platforms, FastAPI services, AI agents, retrieval-augmented generation systems, voice-to-voice AI applications, document intelligence tools, and automated operational workflows.
+My work combines **Python, machine learning, generative AI, FastAPI, vector databases, cloud infrastructure, and full-stack engineering** to turn ideas into working products.
 
 📍 Addis Ababa, Ethiopia
 📧 [samrawitkta@gmail.com](mailto:samrawitkta@gmail.com)
-💼 Open to remote Full-Stack, Backend, and AI Engineering opportunities
+💼 Open to **remote AI/ML, Applied AI, Backend, and Software Engineering opportunities**
 
 ---
 
 ## About Me
 
-* Build end-to-end products from system design and database modelling to testing, deployment, and release preparation
-* Develop scalable APIs and backend services using Python, FastAPI, Java, Spring Boot, NestJS, and PostgreSQL
-* Build responsive full-stack applications with React, Next.js, Vue.js, JavaScript, and TypeScript
-* Develop AI systems using RAG, LLMs, AI agents, embeddings, semantic search, NLP, ASR, and text-to-speech
-* Design document-processing pipelines using OCR, vector databases, PostgreSQL, and pgvector
-* Deploy and containerize applications using Docker, Linux, AWS, GitHub Actions, and CI/CD workflows
-* Explore adversarial machine learning, market-dynamics prediction, NLP, and reliable AI-system evaluation
+* Build end-to-end **AI/ML systems** from data preparation and experimentation through API integration, testing, deployment, and evaluation
+* Develop production-oriented applications with **Python, FastAPI, Django, PostgreSQL, Redis, Docker, and AWS**
+* Work with **LLMs, RAG, AI agents, Hugging Face Transformers, embeddings, semantic search, and vector databases**
+* Build speech and multilingual AI systems using **Whisper ASR, TTS, NLP, and real-time voice pipelines**
+* Use **PyTorch, TensorFlow, scikit-learn, NumPy, and Pandas** for machine-learning and deep-learning workflows
+* Design evaluation pipelines for **retrieval quality, model behavior, latency, reliability, and prompt performance**
+* Build full-stack systems with **React, Next.js, Vue.js, TypeScript, Java, Spring Boot, and NestJS**
+* Containerize and deploy applications with **Docker, Linux, AWS, GitHub Actions, and CI/CD**
 
 ---
 
-## Featured Work
+# Featured Work
 
-### Voice-to-Voice AI Advisory System
+## 🎙️ Voice-to-Voice AI Advisory System
 
-Engineered an end-to-end conversational AI system integrating **Twilio SIP, automatic speech recognition, retrieval-augmented generation, language-model reasoning, and text-to-speech**.
+An end-to-end multilingual voice AI system combining:
 
-Built FastAPI services for speech processing, document retrieval, AI-response generation, and workflow orchestration. Developed semantic-search pipelines using PostgreSQL, pgvector, embeddings, and vector indexing while addressing latency, error handling, retrieval quality, and component reliability.
+**Fine-tuned Whisper ASR → Retrieval-Augmented Generation → LLM → Text-to-Speech**
+
+Built modular FastAPI services for speech processing, semantic retrieval, response generation, and real-time system integration.
+
+### Highlights
+
+* Fine-tuned **Whisper-based ASR** for Amharic speech
+* Built RAG pipelines with **LangChain, PostgreSQL, pgvector, embeddings, and vector search**
+* Integrated LLM-generated responses and TTS into a complete conversational workflow
+* Integrated **Twilio SIP** for real-time voice communication
+* Evaluated ASR accuracy, retrieval quality, latency, prompt behavior, and end-to-end reliability
+* Containerized services with **Docker**
+
+🔗 [View Repository](https://github.com/Samrwitt/Voice-To-Voice-Farmer-Advisor)
 
 ---
 
-### ResearchGuide — AI Research Paper Analysis Platform
+## 📊 Rag_Eval — RAG Evaluation Framework
 
-An AI-powered platform for uploading, analysing, searching, and interacting with academic papers.
+A practical evaluation framework for comparing retrieval strategies and understanding how design choices affect RAG performance.
 
-Implemented document ingestion, OCR, automated summarisation, semantic search, question answering, vector indexing, and retrieval-augmented generation.
+### Evaluates
+
+* BM25 vs dense retrieval
+* Hybrid retrieval strategies
+* Embedding models
+* Chunking strategies
+* Top-K configuration
+* Retrieval latency and p95 latency
+* Token usage and failed queries
+
+### Metrics
+
+**Recall@K • MRR • nDCG • Latency**
+
+The project focuses on an important question in production AI:
+
+> **How do we know a RAG system is actually retrieving the right information?**
+
+🔗 [View Repository](https://github.com/Samrwitt/Rag_Eval)
+
+---
+
+## 🌍 EnviroLens — Environmental Health Data & Risk Surveillance Platform
+
+A data and analytics platform that combines **environmental, health, demographic, socioeconomic, and geospatial data** to identify high-risk communities.
+
+### Built with
+
+**Python • Pandas • GeoPandas • FastAPI • PostgreSQL • PostGIS • Redis**
+
+### Highlights
+
+* Automated ETL and data-processing pipelines
+* Data-quality validation and scoring
+* Geospatial analysis with PostGIS and GeoPandas
+* Risk-index calculation
+* FastAPI backend services
+* Multi-source data integration
+* Analytics-ready outputs for visualization and reporting
+
+🔗 [View Repository](https://github.com/Samrwitt/EnviroLens)
+
+---
+
+## 📚 ResearchGuide — AI Research Paper Analysis Platform
+
+An AI-powered document intelligence platform for uploading, analyzing, searching, and interacting with academic papers.
+
+### Features
+
+* PDF and document ingestion
+* OCR for scanned documents
+* Automated summarization
+* Semantic search
+* Question answering
+* Vector indexing
+* Context-aware RAG
+* Hugging Face Transformers
+* FastAPI backend
 
 🔗 [View Repository](https://github.com/Samrwitt/ResearchGuide)
 
 ---
 
-### Technical Interview Platform
+## 💻 Technical Interview Platform
 
-A full-stack platform for managing structured software-engineering assessments.
+A full-stack platform for conducting and managing structured software-engineering interviews.
 
-Built with **Next.js, TypeScript, Java, Spring Boot, PostgreSQL, and Prisma**, including candidate workflows, REST APIs, relational database schemas, validation, evaluation features, and error handling.
+Built with:
+
+**Next.js • TypeScript • Java • Spring Boot • PostgreSQL**
+
+The platform includes candidate and interviewer workflows, REST APIs, relational data modelling, configurable assessments, validation, evaluation features, and production-oriented error handling.
 
 🔗 [View Repository](https://github.com/Samrwitt/technical_interview)
 
 ---
 
+# Technical Skills
 
-## Technical Skills
+## AI & Machine Learning
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend and APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### AI and Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
-
-**Specialisations:** RAG, LLM integration, AI agents, NLP, ASR, TTS, embeddings, semantic search, document intelligence, OCR, model evaluation, and vector indexing.
-
-### Databases and Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-### DevOps and Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+**LLMs • Generative AI • RAG • AI Agents • Prompt Engineering • NLP • ASR • TTS • Embeddings • Semantic Search • Vector Databases • OCR • Model Evaluation**
 
 ---
 
-## What I Bring to a Team
+## Data & ML
 
-I combine full-stack engineering with practical AI experience. I can work across frontend applications, backend APIs, databases, AI pipelines, cloud infrastructure, testing, and deployment while maintaining a clear understanding of the complete product.
+**NumPy • Pandas • scikit-learn • PyTorch • TensorFlow/Keras • GeoPandas • Model Training • Model Evaluation • Data Pipelines • Feature Engineering**
 
-I enjoy solving complex problems, learning unfamiliar technologies quickly, and turning ambitious ideas into reliable working systems.
+---
+
+## Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+
+**REST APIs • Microservices • Distributed Systems • API Integration • Authentication • Testing**
+
+---
+
+## Databases & Retrieval
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+
+**PostgreSQL • pgvector • PostGIS • MongoDB • Redis • RabbitMQ • SQLite • Vector Search**
+
+---
+
+## Frontend & Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vuedotjs\&logoColor=4FC08D)
+
+**Python • Java • JavaScript • TypeScript • React • Next.js • Vue.js**
+
+---
+
+## Cloud, DevOps & Quality
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+**Docker • AWS EC2 • Linux • GitHub Actions • CI/CD • pytest • API Testing • Integration Testing • Regression Testing**
+
+---
+
+# What I’m Interested In
+
+I’m particularly interested in building systems around:
+
+* Production AI and ML
+* LLM and RAG infrastructure
+* AI agents and automation
+* Speech and multilingual AI
+* AI evaluation and reliability
+* Backend and distributed systems
+* ML/data pipelines
+* Developer tools
+* Applied machine learning
+
+I enjoy working on problems where **machine learning meets real software engineering** — not only building models, but turning them into reliable systems people can actually use.
 
 ---
 
 ## Let’s Connect
 
-I am open to collaborating on full-stack platforms, AI products, RAG systems, developer tools, automation platforms, and applied machine-learning projects.
+I’m open to **AI/ML Engineering, Applied AI, Backend Engineering, and Software Engineering opportunities**, especially remote roles and collaborations on practical AI systems.
 
 📧 [samrawitkta@gmail.com](mailto:samrawitkta@gmail.com)
-
+💻 [github.com/Samrwitt](https://github.com/Samrwitt)
