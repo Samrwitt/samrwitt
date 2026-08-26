@@ -1,4 +1,4 @@
-# Hi, I’m Samrawit Kahsay 👋
+# Hi, I’m Samrawit Kahsay 
 
 ### AI/ML Engineer | Software Engineer
 
@@ -96,39 +96,6 @@ A data and analytics platform that combines **environmental, health, demographic
 
 ---
 
-## 📚 ResearchGuide — AI Research Paper Analysis Platform
-
-An AI-powered document intelligence platform for uploading, analyzing, searching, and interacting with academic papers.
-
-### Features
-
-* PDF and document ingestion
-* OCR for scanned documents
-* Automated summarization
-* Semantic search
-* Question answering
-* Vector indexing
-* Context-aware RAG
-* Hugging Face Transformers
-* FastAPI backend
-
-🔗 [View Repository](https://github.com/Samrwitt/ResearchGuide)
-
----
-
-## 💻 Technical Interview Platform
-
-A full-stack platform for conducting and managing structured software-engineering interviews.
-
-Built with:
-
-**Next.js • TypeScript • Java • Spring Boot • PostgreSQL**
-
-The platform includes candidate and interviewer workflows, REST APIs, relational data modelling, configurable assessments, validation, evaluation features, and production-oriented error handling.
-
-🔗 [View Repository](https://github.com/Samrwitt/technical_interview)
-
----
 
 # Technical Skills
 
